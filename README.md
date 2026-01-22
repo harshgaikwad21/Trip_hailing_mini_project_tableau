@@ -104,14 +104,14 @@ The project consists of **three interactive dashboards**, each designed to answe
 
 ## 📷 Dashboard Previews
 
-### Trip & Revenue Overview
+# Trip & Revenue Overview
 <img width="1637" height="779" alt="Screenshot 2026-01-22 132156" src="https://github.com/user-attachments/assets/b3c92e29-06bc-4486-8885-abf7ff73f316" />
 
 
-### Service & Payment Performance
+# Service & Payment Performance
 <img width="1640" height="778" alt="Screenshot 2026-01-22 132243" src="https://github.com/user-attachments/assets/9d5fba84-536d-470f-bef0-566ff2a10dae" />
 
-### Zone & Distance Insights
+# Zone & Distance Insights
 <img width="1640" height="778" alt="Screenshot 2026-01-22 132243" src="https://github.com/user-attachments/assets/32c5a3d5-71fe-41d6-9b71-20bc830c3e07" />
 
 ---

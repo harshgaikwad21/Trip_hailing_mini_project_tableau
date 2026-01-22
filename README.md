@@ -2,7 +2,7 @@
 
 # 🚖 Taxi & Ride-Hailing Analytics Dashboard
 
-![taxi_hailing](https://img.freepik.com/premium-photo/woman-hailing-taxi-cab-rainy-evening-c_1148322-45883.jpg)
+![taxi_hailing](http://content.thv11.com/photo/2014/11/04/635507281680990009-177741204_4351712_ver1.0.jpg)
 
 An end-to-end **data visualization and analytics project** focused on analyzing **trip activity, revenue performance, service usage, payment behavior, and zone-based travel patterns** for Taxi and Ride-Hailing services.
 
